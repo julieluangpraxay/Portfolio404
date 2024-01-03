@@ -7,6 +7,7 @@ function App() {
     <>
 <h1>this is a test</h1>  
 <h2>react app test</h2> 
+<h2>hello!!</h2>
  </>
   )
 }
