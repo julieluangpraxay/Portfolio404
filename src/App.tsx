@@ -1,6 +1,6 @@
-
-import './App.css';
+import './index.css';
 import Navigation from './Components/Navigation'
+
 
 function App() {
 
