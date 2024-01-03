@@ -10,7 +10,6 @@ function App() {
 <h2>hello!!</h2>
 <p>hello there</p>
 <p>test part 2</p>
-<img src="public/images/darling1.png" alt="" />
  </>
   )
 }
